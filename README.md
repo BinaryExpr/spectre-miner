@@ -4,7 +4,7 @@ This miner was optimized to run much faster than the official miner.
 
 The miner uses the [Spectre Stratum Bridge](https://github.com/spectre-project/spectre-stratum-bridge) to mine.
 
-Dev fee: 5.0%
+Dev fee: 2.5%
 
 ### Options ###
 ```
