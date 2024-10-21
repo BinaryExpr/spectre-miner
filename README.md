@@ -8,7 +8,8 @@ Dev fee: 2.5%
 
 ### Options ###
 ```
-   -d <daemon_address>
+   -d <daemon_address>   # ip address or hostname of a bridge/pool (for example, 127.0.0.1:5555)
    -w <wallet_address>
    -t <threads>
+   --watchdog            # restarts the miner if hashrate was 0 for longer than 20 seconds
 ```
